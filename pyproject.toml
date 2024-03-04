@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "esaj-crawler"
+version = "0.1.0"
+description = "Script to collect data from e-SAJ systems, within Brazil's justice courts"
+authors = ["Adriano Diniz <aodiniz@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+selenium = "^4.18.1"
+bs4 = "^0.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,6 @@
+site_name: e-SAJ Crawler
+site_url: https://aodiniz.github.io/esaj_crawler
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
