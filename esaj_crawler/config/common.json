@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "firefox": {
+      "browser.download.folderList": 2,
+      "browser.download.dir": null,
+      "browser.helperApps.neverAsk.saveToDisk": "application/pdf;charset=UTF-8",
+      "browser.download.manager.showWhenStarting": false,
+      "browser.helperApps.neverAsk.openFile": "application/pdf;charset=UTF-8",
+      "browser.helperApps.alwaysAsk.force": false,
+      "browser.download.manager.alertOnEXEOpen": false,
+      "browser.download.manager.focusWhenStarting": false,
+      "browser.download.manager.useWindow": false,
+      "browser.download.manager.showAlertOnComplete": false,
+      "browser.download.manager.closeWhenDone": false,
+      "pdfjs.disabled": true
+    }
+  }
+}

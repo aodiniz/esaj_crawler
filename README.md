@@ -8,7 +8,19 @@ To accomplish the data extraction, it is applied a web-crawler developed using P
 
 ### Environment setup
 
+#### Firefox driver
+
+Download and install the [latest Mozilla Firefox driver](https://github.com/mozilla/geckodriver/releases) and make sure it's included on your path, as described on the [Selenium Python documentation page](https://selenium-python.readthedocs.io/installation.html#drivers).
+
+If a warning is displayed on run-time, you may choose (or not) to change the driver version accordingly.
+
 ### Cloning the repository
+
+On Terminal / Console, run `git clone https://github.com/aodiniz/esaj_crawler.git`
+
+### Python dependencies setup
+
+
 
 ### Extracting data
 
